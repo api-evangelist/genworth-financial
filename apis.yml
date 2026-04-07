@@ -1,7 +1,12 @@
 aid: genworth-financial
-url: https://raw.githubusercontent.com/api-evangelist/genworth-financial/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/genworth-financial/refs/heads/main/apis.yml
 modified: '2026-03-24'
 apis: []
 common:
   - type: Website
     url: https://www.genworth-financial.com
+description: >-
+  Genworth Financial is a Fortune 500 insurance holding company providing long-term
+  care insurance, life insurance, and mortgage insurance products primarily in the
+  United States.
