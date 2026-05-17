@@ -4,7 +4,7 @@ description: >-
   Genworth Financial is a Fortune 500 insurance holding company providing
   long-term care insurance, life insurance, annuities, and mortgage insurance
   products primarily in the United States.
-type: Contract
+kind: contract
 position: Consuming
 access: 3rd-Party
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
