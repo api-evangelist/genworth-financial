@@ -21,6 +21,8 @@ url: >-
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/genworth-financial-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/genworth-financial_2
   - type: Website
@@ -29,6 +31,8 @@ common:
     url: https://www.carescout.com
   - type: Enact
     url: https://enactmi.com
+  - type: Blog
+    url: https://www.genworth.com/about-us/leading-the-industry/news-announcements
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
