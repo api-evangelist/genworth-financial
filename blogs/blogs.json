@@ -1,0 +1,21 @@
+{
+  "repo": "genworth-financial",
+  "feeds": [
+    {
+      "source": "https://www.genworth.com/about-us/leading-the-industry/news-announcements",
+      "feed_url": "https://www.genworth.com/about-us/leading-the-industry/news-announcements",
+      "title": "",
+      "saved": 0,
+      "method": "none"
+    },
+    {
+      "source": "https://enactmi.com",
+      "feed_url": "https://enactmi.com/rss.xml",
+      "title": "",
+      "saved": 0,
+      "method": "discovered"
+    }
+  ],
+  "fetched": "2026-07-11T11:50:51Z",
+  "post_count": 20
+}
