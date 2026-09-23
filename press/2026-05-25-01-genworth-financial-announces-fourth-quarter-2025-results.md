@@ -1,7 +1,9 @@
 ---
 title: Genworth Financial Announces Fourth Quarter 2025 Results
 url: https://investor.genworth.com/news-events/press-releases/detail/1053/genworth-financial-announces-fourth-quarter-2025-results
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Genworth Financial" press release artificial intelligence'
 position: 1
 source: serpapi-google

@@ -1,7 +1,9 @@
 ---
 title: Genworth Financial Announces Second Quarter 2025 ...
 url: https://investor.genworth.com/news-events/press-releases/detail/1042/genworth-financial-announces-second-quarter-2025-results
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Genworth Financial" press release artificial intelligence'
 position: 4
 source: serpapi-google
